@@ -1217,20 +1217,3 @@ a {
 .cid-uzGRhUVSFg .content-head {
   max-width: 800px;
 }
-.cid-uzMvMjyL6b {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-uzMvMjyL6b .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uzMvMjyL6b .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
